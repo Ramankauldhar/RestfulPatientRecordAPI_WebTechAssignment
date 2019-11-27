@@ -1,0 +1,16 @@
+{
+    "name": "patientsApi",
+    "version": "1.0.1",
+    "description": "REST API - patients",
+    "dependencies": {
+        "restify": "^4.3.4",
+        "restify-errors": "^8.0.1",
+        "save": "2.3.0"
+    },
+    "author": "Group10",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+		"start": "node index.js"
+	}
+}

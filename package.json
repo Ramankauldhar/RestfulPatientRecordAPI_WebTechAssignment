@@ -10,4 +10,7 @@
     "author": "Group10",
     "private": true,
     "main": "index.js"
+    "scripts": {
+        "start": "node index.js"
+    }
 }

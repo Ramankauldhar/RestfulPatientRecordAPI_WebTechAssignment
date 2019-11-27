@@ -18,7 +18,7 @@ server.use(restify.plugins.bodyParser({ mapParams: false }));
 server.listen(PORT, function() {
     //to log the information on start-up about server url
     console.log('%s listening at %s', server.name, server.url);
-    console.log('Endpoints:')
+    console.log('Endpoints 44:')
     console.log('%s/products method: GET, POST, GET by id,DELETE', server.url)
 });
 

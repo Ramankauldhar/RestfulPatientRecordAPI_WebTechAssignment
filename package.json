@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "REST API - patients",
     "dependencies": {
-        "restify": "^4.3.4",
+        "restify": "^11.1.0",
         "restify-errors": "^8.0.1",
         "save": "2.3.0"
     },
